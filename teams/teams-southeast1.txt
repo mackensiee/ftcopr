@@ -1,0 +1,9 @@
+22487, UK 459 - Oxford High School - Cubotics
+24568, UK 555 - St Gabriel's School - Dragonbots
+24951, UK 533 - Holmer Green Senior School - H533Bot
+25420, UK 505 - Harefield School
+27886, UK 630 - Matthew Arnold School
+27911, UK 651 - Gosford Hill School
+27913, UK 656 - Dr Challoners High School
+27941, UK 675 - St Bart's School
+28567, UK 465 - Harrow School

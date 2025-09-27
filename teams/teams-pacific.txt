@@ -1,0 +1,32 @@
+19280, UK 235 - Phoenix
+20981, UK 035 - St John Fisher - Circuit Breakers Vol 4
+21194, RBAI
+22593, UK 451 - Harris Academy Sutton - Drakon
+24325, UK 488 - The King's School - Barrel Botz
+24639, UK 532 - St. Paul's Girls' School - Omnibot
+24650, UK 475 - Mercia School - The Mercia Roboctonauts
+24720, UK 501 - Prendergast Ladywell School - Ladywell Robotics
+24951, UK 533 - Holmer Green Senior School - H533Bot
+25044, UK 157 - Thomas Alleynes High School
+25056, UK 520 - Harris Academy Sutton - Fusion
+25062, UK 558 - Derby Grammar School - Degrees of Freedom
+26587, Triple Six
+27877, UK 628 - Dunfermline High School - Bubble Blasters
+27882, UK 625 - Nonsuch High School for Girls - Cassiopeia
+27883, UK 683 - Wilson's School - Wilsobotics
+27888, UK 671 - Laurus Ryecroft
+27890, UK 632 - The St Marylebone School - Subnautics
+27892, UK 631 - Barton Peveril Sixth Form College
+27896, UK 643 - Gryphon School
+27901, UK 641- Oak Lodge School
+28310, UK 695 - UTC Derby Pride Park
+28315, UK 694 - Ysgol Bro Taf
+28434, UK 679 - Nicholas Breakspear Catholic School
+28435, UK 700 - Cambridge Maths School - Claw/CMS Crabs
+28534, UK 063 - Perton Middle School - Team Snap Wire
+28537, UK 095 - CREATED Academy - Earth Wind & Wire
+28556, UK 508 - Boroughmuir High School - Photoelectric
+28557, UK 538 - Boroughmuir High School - Muirtech
+28562, UK 182 - Chiswick School - Chiswick Cyborgs 2.0
+28578, UK 457 - St John's Marlborough - BOTONAUTS
+28908, UK 703 - UTC Warrington - Technically Wired

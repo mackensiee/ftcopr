@@ -1,0 +1,19 @@
+19279, UK 184 - American School in London - The Top Hats
+19280, UK 235 - Phoenix
+19281, UK 236 - American School in London - Froot Loopz
+19282, UK 247 - American School in London - King Kong Wobbegong
+19284, UK 248 - American School in London - The Challenger Deep
+21002, UK 249 - American School in London - The Chan Clan
+24565, UK 573 - London Academy of Excellence Tottenham - Orion
+24639, UK 532 - St. Paul's Girls' School - Omnibot
+25397, UK 485 - Hornsey School for Girls
+25429, UK 535 - Westminster School
+27890, UK 632 - The St Marylebone School - Subnautics
+27891, UK 633 - St Paul's School - SParkS
+27902, UK 646 - London Academy of Excellence - Robotics Creed
+27935, UK 661 - Lycée Français Charles de Gaulle
+27942, UK 678 - Westminster School
+27943, UK 667 - Hornsey School for Girls
+28321, UK 688 - London Academy of Excellence Tottenham - Orion Omega
+28535, UK 081 - Pimlico Academy - Pimlico Panthers
+28545, UK 168 - Pimlico Academy - Vector15

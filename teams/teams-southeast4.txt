@@ -1,0 +1,17 @@
+19259, UK 279 - Brighton College - Gear SubZero
+21170, UK 232 - Sevenoaks School - 7Oaks
+22593, UK 451 - Harris Academy Sutton - Drakon
+24408, UK 511 - Gordon's School - Gordon's School Robotics
+24696, UK 571 - Reigate Grammar School - Knights of RGS
+24720, UK 501 - Prendergast Ladywell School - Ladywell Robotics
+25056, UK 520 - Harris Academy Sutton - Fusion
+27882, UK 625 - Nonsuch High School for Girls - Cassiopeia
+27903, UK 647 - Glyn School
+27939, UK 690 - Oxford International College - Volume X
+28372, UK 622 - Harris Academy Sutton - Arion
+28539, UK 110 - Nonsuch High School for Girls - Delphinus
+28540, UK 116 - St Philomena's Catholic High School for Girls - System Override
+28559, UK 383 - Brighton College
+28571, UK 426 - Nonsuch High School for Girls
+28576, UK 525 - Rosebery School
+28579, UK 179 - St Philomena's Catholic High School

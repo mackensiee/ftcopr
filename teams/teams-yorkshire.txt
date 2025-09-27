@@ -1,0 +1,15 @@
+20993, UK 090 - Outwood Academy Newbold - GroundX
+20995, UK 373 - Egglescliffe School - Vision Robotics
+21126, UK 164 - Holmfirth High School
+24650, UK 475 - Mercia School - The Mercia Roboctonauts
+25023, UK 080 - Outwood Grange Academy
+25062, UK 558 - Derby Grammar School - Degrees of Freedom
+27876, UK 654 - Belper School
+27880, UK 663 - Queen Elizabeth's Grammar, Alford
+27885, UK 479 - Funny Wonders Inc CIC - The UltraPlanetary Peak Bots
+27912, UK 677 - Teesdale School and Sixth Form
+28310, UK 695 - UTC Derby Pride Park
+28318, UK 682 - The West Bridgford School
+28577, UK 542 - Royal Grammar School Newcastle - Robokai
+28582, UK 536 - UTC Derby Pride Park
+28673, UK 702 - Holmfirth High School

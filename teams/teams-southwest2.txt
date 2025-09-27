@@ -1,0 +1,14 @@
+22456, UK 447 - BSG - Scarlet Sparx
+22457, UK 456 - BSG - ULTRAVIOLET
+23877, UK 526 - BSG - Orange Bytes
+24569, UK 530 -Twynham School - TWY Robotics
+24715, UK 544 - Gillingham School
+24739, UK 512 - St Michaels Middle School - Cyber Sisters
+25011, UK 539 - Shaftesbury school - Roborangers
+27892, UK 631 - Barton Peveril Sixth Form College
+27896, UK 643 - Gryphon School
+27900, UK 644 - The Stonehenge School
+27916, UK 664 - Livingstone Academy Bournemouth
+28536, UK 085 - Ferndown Upper School - Hendecabots
+28544, UK 166 - Ferndown Upper School - Team Name
+28573, UK 450 - Poole Grammar School

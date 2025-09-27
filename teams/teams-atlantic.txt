@@ -1,0 +1,31 @@
+19259, UK 279 - Brighton College - Gear SubZero
+20992, UK 384 - SGS Berkeley Green UTC - Berkeley Robotics
+20995, UK 373 - Egglescliffe School - Vision Robotics
+21196, UK 378 - The Norwood School - Norwood Industries
+21207, UK 425 - Trumpington Community College - Team Cipher
+22457, UK 456 - BSG - ULTRAVIOLET
+22486, UK 326 - Denstone College - Something Went Wrong
+22487, UK 459 - Oxford High School - Cubotics
+22663, UK 041 - St Margaret Ward Catholic Academy - VNATION
+23877, UK 526 - BSG - Orange Bytes
+24565, UK 573 - London Academy of Excellence Tottenham - Orion
+24908, UK 172 - Calderstones School - Calderclones
+25059, UK 507 - Lewis Girls School - Xbot
+25268, UK 497 - Langley Park School for Boys - Powercut Robotics
+25357, UK 541 - Passion4Fusion- P4F Robotics
+25413, UK 527 - Fettes College - Fettes Robotics
+25416, UK 556 - Friend's School - Software Therapy
+25436, UK 045 - Comberton Village College - Team Bob!
+25759, Mr. Krabs
+27885, UK 479 - Funny Wonders Inc CIC - The UltraPlanetary Peak Bots
+27891, UK 633 - St Paul's School - SParkS
+27902, UK 646 - London Academy of Excellence - Robotics Creed
+27907, UK 674 Camp Hill Girls
+27917, UK 624 - Foyle Roboclub
+27939, UK 690 - Oxford International College - Volume X
+28321, UK 688 - London Academy of Excellence Tottenham - Orion Omega
+28535, UK 081 - Pimlico Academy - Pimlico Panthers
+28536, UK 085 - Ferndown Upper School - Hendecabots
+28567, UK 465 - Harrow School
+28573, UK 450 - Poole Grammar School
+28577, UK 542 - Royal Grammar School Newcastle - Robokai

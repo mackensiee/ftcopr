@@ -1,0 +1,12 @@
+21196, UK 378 - The Norwood School - Norwood Industries
+25268, UK 497 - Langley Park School for Boys - Powercut Robotics
+25430, UK 499 - Woolwich Polytechnic School for Girls
+26587, Triple Six
+27883, UK 683 - Wilson's School - Wilsobotics
+27893, UK 636 - Langley Park School for Girls
+27895, UK 638 - The Folkestone School for Girls
+27898, UK 640 - Langley Park School for Boys - Overload Robotics
+27901, UK 641- Oak Lodge School
+28437, UK 698 - Langley Park School for Boys
+28555, UK 454 - Barking Abbey School
+28574, UK 570 - Ravens Wood School
