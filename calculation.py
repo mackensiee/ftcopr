@@ -143,9 +143,9 @@ def print_table(results, teams: Dict[int, str]):
 
 def save_csv(results, teams: Dict[int, str], filename: str):
   with open(filename, "w") as f:
-    f.write("team,opr,no_foul,ccwm,name\n")
+    f.write("team|opr|no_foul|ccwm|name\n")
     for team, opr, no_foul, ccwm in results:
-      f.write(f"{team},{opr},{no_foul},{ccwm},{teams[team]}\n")
+      f.write(f"{team}|{opr}|{no_foul}|{ccwm}|{teams[team]}\n")
 
 
 # ------------------------
