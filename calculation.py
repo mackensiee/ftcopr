@@ -152,12 +152,12 @@ def save_csv(results, teams: Dict[int, str], filename: str):
 # Calculate OPRs
 # ------------------------
 
-def calculate_oprs(teams, matches, end_location):
+def calculate_oprs(teams, matches):
   teams = load_teams(teams)
   matches = load_matches(matches)
   if len(matches) == 0:
-    print(f'no match data, so no oprs written to {end_location}')
-    return []
+    print(f'no match data for this event')
+    return [], teams
 
   M, team_list = build_matrix(matches, teams)
   scores, no_fouls, margins = build_score_vectors(matches)
@@ -166,7 +166,4 @@ def calculate_oprs(teams, matches, end_location):
 
   results = rank_teams(team_list, oprs, no_fouls_r, ccwms)
 
-  save_csv(results, teams, end_location)
-  print(f'oprs written to {end_location}')
-
-  return results
+  return results, teams

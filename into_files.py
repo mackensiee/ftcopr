@@ -1,4 +1,5 @@
 import csv
+from typing import Dict
 
 # write teams into csvs
 def write_teams_csv(teams, file_name):
@@ -29,3 +30,12 @@ def write_matches_csv(matches, file_name):
       blueNoFoulScore = match["blueNoFoulScore"]
       writer.writerow([red1, red2, redScore, redNoFoulScore, blue1, blue2, blueScore, blueNoFoulScore])
     print(f'matches written to {file_name}')
+
+def write_oprs_csv(results, teams: Dict[int, str], type: str, file_name: str, event = ""):
+  with open(file_name, type) as f:
+    for team, opr, no_foul, ccwm in results:
+      if event != "":
+        f.write(f"{team}|{opr}|{no_foul}|{ccwm}|{teams[team]}|{event}\n")
+      else:
+        f.write(f"{team}|{opr}|{no_foul}|{ccwm}|{teams[team]}\n")
+    print(f'oprs written to {file_name}')
